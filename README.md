@@ -1,6 +1,0 @@
-﻿# terraform
-
-TEST TEST TEST
-
-
-CHWG CHWG CHWG
